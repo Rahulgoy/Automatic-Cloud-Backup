@@ -1,0 +1,8 @@
+13-10-2021 18:02:13 backup_failure Upload Failure
+13-10-2021 18:04:34 backup_success /home/rahul/Projects/CC
+13-10-2021 18:05:37 backup_success /home/rahul/Projects/CC
+13-10-2021 18:09:56 backup_success /home/rahul/Projects/CC
+13-10-2021 18:23:55 backup_failure Authentication error
+13-10-2021 18:26:04 backup_success /home/rahul/Projects/CC
+13-10-2021 18:27:17 backup_success /home/rahul/Projects/CC
+13-10-2021 18:28:31 backup_success /home/rahul/Projects/CC
